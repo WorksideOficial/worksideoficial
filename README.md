@@ -1,7 +1,7 @@
 ### Hi there 👋
-<h1 align="center">Nilton R.C Santos</h1>
+<h1 align="left">Nilton R.C Santos</h1>
 
-<p align="center">Sou Programador PHP, trabalho com o desenvolvimento de sistemas Web Dinâmicos. Atuo na implementação de soluções para empresas utilizando tecnologias modernas que são padrão do mercado web.</p>
+<p align="left">Sou Programador PHP, trabalho com o desenvolvimento de sistemas Web Dinâmicos. Atuo na implementação de soluções para empresas utilizando tecnologias modernas que são padrão do mercado web.</p>
 
 ### 🏁 Projetos que Trabalhei
 👉 PlusFrota - Sistema de Gestão de Frota
@@ -30,4 +30,3 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 Nilton R.C Santos | FullStack Developer 👋🏽 Entre em contato!
-![Badge](https://img.shields.io/badge/Blog-Workside%20Tecnologia-%069?style=for-the-badge&logo=ghost)
