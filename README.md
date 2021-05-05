@@ -1,10 +1,6 @@
 ### Hi there 👋
-
-# Nome do Projeto 
-ou
 <h1 align="center">Nilton R.C Santos</h1>
 
-## Descrição do Projeto
 <p align="center">Sou Programador PHP, trabalho com o desenvolvimento de sistemas Web Dinâmicos. Atuo na implementação de soluções para empresas utilizando tecnologias modernas que são padrão do mercado web.</p>
 
 ### 🏁 Projetos que Trabalhei
@@ -34,4 +30,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 Nilton R.C Santos | FullStack Developer 👋🏽 Entre em contato!
-https://img.shields.io/static/v1?label=BLOG&message=Workside%20Tecnologia&color=069&style=for-the-badge&logo=ghost
+![Badge](https://img.shields.io/badge/Blog-Workside%20Tecnologia-%069?style=for-the-badge&logo=ghost)
