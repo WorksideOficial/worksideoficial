@@ -1,16 +1,37 @@
 ### Hi there 👋
 
-<!--
-**WorksideOficial/worksideoficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Nome do Projeto 
+ou
+<h1 align="center">Nilton R.C Santos</h1>
 
-Here are some ideas to get you started:
+## Descrição do Projeto
+<p align="center">Sou Programador PHP, trabalho com o desenvolvimento de sistemas Web Dinâmicos. Atuo na implementação de soluções para empresas utilizando tecnologias modernas que são padrão do mercado web.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏁 Projetos que Trabalhei
+👉 PlusFrota - Sistema de Gestão de Frota
+https://sistema.plusfrota.com.br/
+
+👉 Workside - Plataforma de Cursos EAD
+https://workside.com.br
+
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Expo](https://expo.io/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+
+### Autor
+---
+
+<a href="https://workside.com.br">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/53720839?v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Nilton R.C Santos</b></sub></a> <a href="https://workside.com.br" title="Workside">🚀</a>
+
+
+Nilton R.C Santos | FullStack Developer 👋🏽 Entre em contato!
+https://img.shields.io/static/v1?label=BLOG&message=Workside%20Tecnologia&color=069&style=for-the-badge&logo=ghost
