@@ -29,4 +29,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <sub><b>Nilton R.C Santos</b></sub></a> <a href="https://workside.com.br" title="Workside">🚀</a>
 
 
-Nilton R.C Santos | FullStack Developer 👋🏽 Entre em contato!
+Nilton R.C Santos | FullStack Developer
