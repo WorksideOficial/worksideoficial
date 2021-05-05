@@ -12,7 +12,7 @@ https://workside.com.br
 
 ### 🛠 Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
+As seguintes ferramentas são utilizadas no meu dia-a-dia:
 
 - [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
