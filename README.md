@@ -4,11 +4,24 @@
 <p align="left">Sou Programador, trabalho com o desenvolvimento de sistemas Web Dinâmicos. Atuo na implementação de soluções para empresas utilizando tecnologias modernas que são padrão do mercado web.</p>
 
 ### 🏁 Projetos que Trabalhei
+👉 Workside - Plataforma de Cursos EAD
+https://workside.com.br
+
 👉 PlusFrota - Sistema de Gestão de Frota
 https://sistema.plusfrota.com.br/
 
-👉 Workside - Plataforma de Cursos EAD
-https://workside.com.br
+👉 Fontes Promotora
+https://fontespromotora.com.br/
+
+👉 PassePag
+https://passepag.com.br/
+
+👉 Plathanus
+https://plathanus.com.br/en
+
+👉 Resitrack
+https://www.resitrack.com.br/
+
 
 ### 🛠 Tecnologias
 
