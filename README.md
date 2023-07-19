@@ -3,6 +3,10 @@
 
 <p align="left">Sou Programador, trabalho com o desenvolvimento de sistemas Web Dinâmicos. Atuo na implementação de soluções para empresas utilizando tecnologias modernas que são padrão do mercado web.</p>
 
+[![Workside_oficial github stats](https://github-readme-stats.vercel.app/api?username=worksideoficial&count_private=true&theme=dark&show_icons=true)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=worksideoficial&langs_count=5&theme=dark)]
+
 ### 🏁 Projetos que Trabalhei
 👉 Workside - Plataforma de Cursos EAD
 https://workside.com.br
